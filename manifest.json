@@ -1,0 +1,21 @@
+{
+  "assignment": "Hands-On Assignment 4: Use Unsupervised Deep Learning Algorithm to Detect Fraud with PyOD",
+  "course": "Advance Artificial Intelligence (MSCS-633-B01)",
+  "term": "2026 Summer - Second Bi-term",
+  "student_name": "Kaustubh",
+  "files": [
+    {
+      "filename": "fraud_detection.py",
+      "description": "Python source code for training PyOD AutoEncoder on synthetic credit card data"
+    },
+    {
+      "filename": "requirements.txt",
+      "description": "Python dependencies required to run the code"
+    },
+    {
+      "filename": "fraud_detection_results.csv",
+      "description": "Output file containing predictions and anomaly scores"
+    }
+  ],
+  "instructions": "Run `pip install -r requirements.txt` followed by `python fraud_detection.py` to execute the experiment and view output metrics."
+}
